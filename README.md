@@ -11,16 +11,6 @@ The **AI Kids Story Generator** app enables users to create kids' stories with t
 - **AI Integration**: Generates stories using the Gini AI API and images using the Replicate API.
 - **Credit System**: Allows for the limitation of story generation and the option to purchase more credits.
 
-## Table of Contents
-- [Prerequisites](#prerequisites)
-- [Setup](#setup)
-- [Designing the App](#designing-the-app)
-- [AI Integration](#ai-integration)
-- [User Authentication](#user-authentication)
-- [Dashboard](#dashboard)
-- [Story Creation Workflow](#story-creation-workflow)
-- [Deployment](#deployment)
-
 ## Prerequisites
 - Knowledge of JavaScript and React.
 - Node.js and npm installed.
@@ -111,11 +101,6 @@ Follow the Clerk documentation for setting up authentication in your app.
   - Call Replicate API to generate an image.
   - Deduct credits after successful generation.
 
-## Deployment
-- **Description**: Deploy the app to cloud platforms such as Vercel, AWS, or Netlify.
-- **Features**:
-  - Use Vercel for quick deployment of Next.js apps.
-  - Set up continuous integration/continuous deployment (CI/CD) pipelines for seamless updates.
 
 
 
