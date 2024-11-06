@@ -34,9 +34,8 @@ The **AI Kids Story Generator** app enables users to create kids' stories with t
 
 ### Install NextUI
 To install NextUI in your project, run the following command:
-
-```bash
-npm install @nextui-org/react
+   ```bash
+   npm install @nextui-org/react
 Initialize Clerk Authentication
 Follow the Clerk documentation for setting up authentication in your app.
 
