@@ -8,7 +8,7 @@ The **AI Kids Story Generator** app enables users to create kids' stories with t
 - **Landing Page**: Login/signup screen with Clerk authentication.
 - **Dashboard**: View and manage stories, track credits, and user statistics.
 - **Story Creation**: Form to input story details like subject, type, age group, and image style.
-- **AI Integration**: Generates stories using the Gini AI API and images using the Replicate API.
+- **AI Integration**: Generates stories using the Gemini AI API and images using the Replicate API.
 - **Credit System**: Allows for the limitation of story generation and the option to purchase more credits.
 
 ## Prerequisites
