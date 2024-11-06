@@ -10,6 +10,13 @@ The **AI Kids Story Generator** app enables users to create kids' stories with t
 - **Story Creation**: Form to input story details like subject, type, age group, and image style.
 - **AI Integration**: Generates stories using the Gemini AI API and images using the Replicate API.
 - **Credit System**: Allows for the limitation of story generation and the option to purchase more credits.
+<img width="1093" alt="image" src="https://github.com/user-attachments/assets/cf0fcbd8-05c6-44b7-8c86-35e6eedf2d69">
+<img width="1104" alt="image" src="https://github.com/user-attachments/assets/cef121df-be2e-43e2-b296-ec0b090e69bc">
+<img width="1028" alt="image" src="https://github.com/user-attachments/assets/503a39d2-3134-4cbf-afdb-a1a5d543140e">
+<img width="804" alt="image" src="https://github.com/user-attachments/assets/cbf05dc7-65f4-4fd0-ac97-1462ba7485d8">
+
+
+
 
 ## Prerequisites
 - Knowledge of JavaScript and React.
@@ -97,7 +104,7 @@ Follow the Clerk documentation for setting up authentication in your app.
 ### Story Generation
 - **Description**: Generate the story using AI and deduct credits from the user account.
 - **Process**: 
-  - Call the Gini AI API to create a story.
+  - Call the Gemini API to create a story.
   - Call Replicate API to generate an image.
   - Deduct credits after successful generation.
 
