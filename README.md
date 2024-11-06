@@ -61,8 +61,8 @@ Follow the Clerk documentation for setting up authentication in your app.
 
 ## AI Integration
 
-### Gini AI API
-- **Description**: Use Gini AI to generate text stories based on user input.
+### Gemini AI API
+- **Description**: Use Gemini AI to generate text stories based on user input.
 - **Integration**: The AI generates stories using subject, type, age group, and image style.
 
 ### Replicate API
