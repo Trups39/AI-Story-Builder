@@ -102,7 +102,7 @@ Follow the Clerk documentation for setting up authentication in your app.
 
 ### Credit Check
 - **Description**: Verify the user's available credits to generate a new story.
-- **Logic**: Ensure that users have sufficient credits before initiating story generation.
+- **Logic**: Ensure that users have sufficient credits before initiating story generation.user can buy credits with paypal
 
 ### Story Generation
 - **Description**: Generate the story using AI and deduct credits from the user account.
@@ -116,6 +116,6 @@ Follow the Clerk documentation for setting up authentication in your app.
 - **Features**:
   - Use Vercel for quick deployment of Next.js apps.
   - Set up continuous integration/continuous deployment (CI/CD) pipelines for seamless updates.
-```
+
 
 
